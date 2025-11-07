@@ -13,7 +13,7 @@ Tune List is cross platform mobile app for recording keyboard-based music snippe
    cd Tune-List  
    cd TuneList  
    cd TuneList (nested folder)  
-
+   
 **4. Install Dependancies and initialize:**  
    npm install  
    npx expo start  
