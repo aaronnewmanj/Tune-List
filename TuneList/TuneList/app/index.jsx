@@ -1,4 +1,3 @@
-// app/index.jsx
 import { View, Text, StyleSheet, Pressable, ImageBackground, ScrollView, useWindowDimensions} from 'react-native';
 import { useRouter } from 'expo-router';
 import pianoImage from '../assets/images/piano.jpg';
