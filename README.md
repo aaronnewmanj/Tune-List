@@ -6,7 +6,7 @@ Tune list is cross platform mobile app for recording keyboard-based music snippe
    Node.js: https://nodejs.org  
    npm install -g expo-cli  
 
-**2. Download Expo Go app or Android/iOS simulator**
+**2. Download Expo Go app**
 
 **3. Clone Repository and enter directory:**  
    git clone https://github.com/aaronnewmanj/Tune-List.git  
