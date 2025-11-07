@@ -23,7 +23,7 @@ Tune list is cross platform mobile app for recording keyboard-based music snippe
 
 **6. How the app works:**  
    First select an insturment on the insturments page (this will bring you to the record page)  
-   On the record page, play any song you'd like (press record button to start recording, and press again to stop)  
+   On the record page, play any song you'd like on the key tiles (press record button to start recording, and press again to stop)  
    Save recording with check mark button  
    Access saved recordings in playlist page  
    
