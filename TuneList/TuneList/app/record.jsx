@@ -1,4 +1,3 @@
-// Record.jsx
 import React, { useState, useRef, useEffect, useContext } from 'react';
 import { View, StyleSheet, Pressable, Alert, useWindowDimensions } from 'react-native';
 import * as ScreenOrientation from 'expo-screen-orientation';
