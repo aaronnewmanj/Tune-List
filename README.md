@@ -8,7 +8,7 @@ Tune list is cross platform mobile app for recording keyboard-based music snippe
 
 **2. Download Expo Go app or Android/iOS simulator**
 
-**3. Clone Repository and enter:**  
+**3. Clone Repository and enter directory:**  
    git clone https://github.com/aaronnewmanj/Tune-List.git  
    cd Tune-List  
    cd TuneList  
