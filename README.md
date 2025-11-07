@@ -2,9 +2,9 @@
 Tune list is cross platform mobile app for recording keyboard-based music snippets and adding them to in-app playlist. It was built using React Native, JavaScript, Node.js, and and JSX(HTML based JavaScript). It utilizes local file storage for audio recording and playing, and linked lists for ordered playback. 
 
 ## Steps:
-**1. Download Node.js and npm**
-   Node.js: https://nodejs.org
-   npm install -g expo-cli
+**1. Download Node.js and npm**  
+   Node.js: https://nodejs.org  
+   npm install -g expo-cli  
 
 **2. Download Expo Go app or Android/iOS simulator**
 
