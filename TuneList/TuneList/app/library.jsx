@@ -1,4 +1,3 @@
-// app/library.jsx
 import React, { useEffect, useContext, useRef, useState } from 'react';
 import { View, Text, StyleSheet, Pressable, ScrollView, Alert } from 'react-native';
 import * as FileSystem from 'expo-file-system/legacy';
