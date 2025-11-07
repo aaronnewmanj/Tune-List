@@ -19,7 +19,7 @@ Tune list is cross platform mobile app for recording keyboard-based music snippe
    npx expo start  
 
 **5. Run Application:**  
-   Scan QR code in terminal for access to app 
+   Scan QR code generated in terminal for access to app (it should take you to Expo Go)
 
 **6. How the app works:**  
    First select an insturment on the insturments page (this will bring you to the record page)  
