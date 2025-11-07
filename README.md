@@ -1,5 +1,5 @@
 # Tune List
-Tune List is cross platform mobile app for recording keyboard-based music snippets and adding them to an in-app playlist. It was built using React Native, JavaScript, TypeScript, Node.js, and JSX (HTML based JavaScript). It utilizes local file storage for audio recording and saving, and linked lists for ordered playback. 
+Tune List is cross platform mobile app for recording keyboard-based music snippets and adding them to an in-app playlist. It was built using React Native, JavaScript, TypeScript, Node.js, and JSX (HTML based JavaScript). It utilizes local file storage for audio recording and saving, and doubly-linked list for ordered playback. 
 
 ## Steps  
 **1. Download Node.js and npm:**  
